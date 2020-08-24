@@ -1,0 +1,15 @@
+openssh-client
+ffmpeg
+imagemagick
+libmagick++-dev
+autoconf
+ruby-dev
+gcc
+g++
+libtool
+make
+zip
+build-essential
+postgresql-server-dev-10
+libpqxx-dev
+

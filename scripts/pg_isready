@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "wait pg"
+sleep 10
+
+echo "wait pg"
+sleep 10
+
+echo "wait pg"
+sleep 10
+
+echo "is pg ready"
